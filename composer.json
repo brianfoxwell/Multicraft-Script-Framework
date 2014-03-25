@@ -1,0 +1,19 @@
+{
+    "name": "bfoxwell/multicraft-scripts",
+    "description": "Scripts for Multicraft",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Foxwell",
+            "email": "brian@foxwell.io"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": [
+            "app"
+        ]
+    }
+}
