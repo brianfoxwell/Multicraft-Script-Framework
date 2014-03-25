@@ -17,7 +17,7 @@ class RestartServer implements Runnable
 	{
 		$this->countDown();
 
-		//$this->multicraft->restartServer($this->server);
+		$this->multicraft->restartServer($this->server);
 	}
 
 	protected function countDown()
